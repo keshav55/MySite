@@ -1,0 +1,3 @@
+[submodule "jekyllbootstrap"]
+	path = jekyllbootstrap
+	url = git://github.com/jekyllbootstrap/theme-the-minimum.git
