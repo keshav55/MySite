@@ -7,7 +7,7 @@ layout: page
 
 I'm **Keshav Rao**, a High School **Developer** and **Entrepreneur**.  
 
-I enjoy _writing_, playing sports, thinking of new ideas, and building things.  
+I enjoy writing, playing sports, thinking of new ideas, and building things.  
 
 Currently working on [PeerEditr](www.peereditr.com). 
 
