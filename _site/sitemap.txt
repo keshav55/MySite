@@ -2,7 +2,10 @@
 www.keshavrao.com/archive.html
 www.keshavrao.com/atom.xml
 www.keshavrao.com/categories.html
+www.keshavrao.com/pages/about/index.html
 www.keshavrao.com/index.html
 www.keshavrao.com/projects.html
 www.keshavrao.com/rss.xml
 www.keshavrao.com/sitemap.txt
+
+www.keshavrao.com/personal/2014/12/22/why-i-blog
