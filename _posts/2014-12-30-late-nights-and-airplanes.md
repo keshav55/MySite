@@ -2,7 +2,7 @@
 layout: post
 title: "Late Nights and Airplanes"
 description: ""
-category: 
+category: Productivity 
 tags: []
 ---
 {% include JB/setup %}
