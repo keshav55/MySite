@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div id="container">
+  {% for project in site.data.projects %}
+  <div class="project">
+    <h2 class="post-title">
+        {{ project.title }}
+    </h2>
+
+    
+    {% if project.links.link != nil %}
+    <a href="{{ project.links.link }}"> Link </a>
+    {% endif %}
+    {% if project.links.github != nil %}
+    <a href="{{ project.links.github }}"> Github </a>
+    {% endif %}
+    {% if project.links.challengepost != nil %}
+    <a href="{{ project.links.github }}"> ChallengePost </a>
+    {% endif %}
+    
+    {% for image in project.images %}
+        <img class="img" height="100" width="100" src="{{ site.baseurl }}/images/{{ image }}">
+
+{% endfor %}
+
+	<br>
+    {{ project.description }}
+    
+   <br> <br>
+    
+  </div>
+  {% endfor %}
+
+</div>
+
+

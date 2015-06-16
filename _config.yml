@@ -1,0 +1,29 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Keshav Rao
+tagline:             
+description:         High School Entrepreneur and Developer
+url:                 http://keshavrao.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Keshav Rao
+  url:               keshavrao.com
+  email:             keshavrao250@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+
+resume:
+  link:           
+github:
+  link:		      https://github.com/keshav55
+  repo:           
