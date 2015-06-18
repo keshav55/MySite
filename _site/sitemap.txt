@@ -1,0 +1,10 @@
+
+/404.html
+/atom.xml
+/categories.html
+/projects/index.html
+/index.html
+/rss.xml
+/sitemap.txt
+
+/post/hello-summer-2015
