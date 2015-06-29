@@ -10,6 +10,13 @@
     link:     altacode.org
   date:     2014-
   description:  A Computer Science organization dedicated to promoting coding and project building around the community. Internationally recognized by DECA. 
+  images: 
+
+- title:    Wyze
+  links: 
+    link:     http://challengepost.com/software/wyze
+  date:     2015-
+  description:  Wyze enables people to discretely ask for help when they really need it.
   images:      
 
 - title:    Building Habit Forming Educational Applications
@@ -42,7 +49,7 @@
 
 - title:    Dunno
   links: 
-    link:     https://link.apple.com/us/app/robo-bird/id942321586?mt=8
+    link:     http://challengepost.com/software/dunno
   date:     2014-
   description:   PennApps '14. iOS Application that uses location based services to push a question to people near your location
   images:      
