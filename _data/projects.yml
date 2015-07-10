@@ -69,14 +69,14 @@
 
 - title:    TextShell
   links: 
-    link:      tsh.herokuapp.com
+    link:      http://tsh.herokuapp.com
   date:     2014-
   description:  HSHacks '14 2nd Place. Web Application that allows you to text a command to pull information without the use of internet.
   images:       
 
 - title:    SwiftPost
   links: 
-    link:     swiftpost.herokuapp.com
+    link:     http://swiftpost.herokuapp.com
   date:     2014-
   description:  HackTech '14. Web Application that enables users to send direct mail to large amounts of people.
   images:       
