@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Experience Programming Projects"
+title: "Projects I: Summer 2015"
 description: ""
 category: Code
 tags: []
