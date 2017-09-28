@@ -5,21 +5,19 @@
         <description>Keshav Rao - Keshav Rao</description>
         <link></link>
         <atom:link href="" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 19 Jun 2015 07:03:39 -0700</lastBuildDate>
-        <pubDate>Fri, 19 Jun 2015 07:03:39 -0700</pubDate>
+        <lastBuildDate>Thu, 28 Sep 2017 15:47:08 -0700</lastBuildDate>
+        <pubDate>Thu, 28 Sep 2017 15:47:08 -0700</pubDate>
         <ttl>60</ttl>
 
 
         <item>
-                <title>Hello Summer 2015</title>
+                <title>Hello World</title>
                 <description>
-&lt;p&gt;Summer is great. It’s the perfect time to work on projects and goals without worrying about school work. A lot of learning happens during this time if used wisely.&lt;/p&gt;
-
-&lt;p&gt;I can’t wait to get started on some projects I have not finished yet.&lt;/p&gt;
+&lt;p&gt;More coming soon.&lt;/p&gt;
 </description>
-                <link>/post/hello-summer-2015</link>
-                <guid>/post/hello-summer-2015</guid>
-                <pubDate>Wed, 17 Jun 2015 00:00:00 -0700</pubDate>
+                <link>/post/the-joy-of-projects</link>
+                <guid>/post/the-joy-of-projects</guid>
+                <pubDate>Mon, 13 Jul 2015 00:00:00 -0700</pubDate>
         </item>
 
 
